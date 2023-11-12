@@ -2,7 +2,7 @@
 - 👀 I’m interested in game design and content creation
 - 🌱 I’m currently learning rust (woo!)
 - 💞️ I’m looking to collaborate on a game (game jam / post jam).
-- 📫 How to reach me thatgobbt@gmail.com or dm me on discord "@gobbt"
+- 📫 How to reach me: dm me on discord "@gobbt" or mail me at ||thatgobbt@gmail.com|| 
 
 <!---
 gobbt/gobbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
