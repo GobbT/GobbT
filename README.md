@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gobbt
+- 👋 Hi, I’m @thatgobbe
 - 👀 I’m interested in game design and content creation
 - 🌱 I’m currently learning [rust](https://docs.rs/) (woo!)
   - and the [bevy game engine](https://bevyengine.org/).
